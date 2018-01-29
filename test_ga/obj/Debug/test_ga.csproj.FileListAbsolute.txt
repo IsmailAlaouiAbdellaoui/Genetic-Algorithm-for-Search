@@ -1,0 +1,6 @@
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\bin\Debug\test_ga.exe.config
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\bin\Debug\test_ga.exe
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\bin\Debug\test_ga.pdb
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\obj\Debug\test_ga.csprojResolveAssemblyReference.cache
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\obj\Debug\test_ga.exe
+D:\Users\smail\Documents\Visual Studio 2015\Projects1\test_ga\test_ga\obj\Debug\test_ga.pdb
